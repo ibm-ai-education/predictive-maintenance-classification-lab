@@ -35,10 +35,10 @@ If you are not already signed up for Watson Studio, [sign up here](https://www.i
 3.1 Click on  **Add to project** and then select **Notebook**
 ![Assets](images/ss3.png)
 
-3.2 Name the Notebook *LSTM Classification PM Demo** . Select **From URL** and copy the following URL into the **Notebook URL** field and then click **Create Notebook**
+3.2 Name the Notebook *LSTM Classification PM Demo* . Select **From URL** and copy the following URL into the **Notebook URL** field and then click **Create Notebook**
 
 ```
-https://raw.githubusercontent.com/ibm-ai-education/predictive-maintenance-classification-lab/master/nasa-pm-data.zip
+https://raw.githubusercontent.com/ibm-ai-education/predictive-maintenance-classification-lab/master/nasa-pm-data.ipynb
 ```
 
 ![Create Notebook](images/ss4.png)
