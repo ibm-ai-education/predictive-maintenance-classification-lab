@@ -1,4 +1,6 @@
-#  Predictive Maintenance using an RNN with Watson Studio
+#  Predictive Maintenance with Watson Studio
+
+## Part 1 - Classification with LSTM
 
 Machine learning models for predictive maintenance predict equipment failure before it happens avoiding unplanned downtime costs resulting from failure and avoiding in some cases  hundreds of thousands of dollars per day depending on industry.
 
